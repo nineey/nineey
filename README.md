@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey! 🙋🏻‍♂️
+
+Most of my coding projects are just for fun. Feel free to check out my repos. 👨🏻‍💻
 
 <!--
 **nineey/nineey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
