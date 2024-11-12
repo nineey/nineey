@@ -1,6 +1,6 @@
 ### Hey! 🙋🏻‍♂️
 
-Programming more or less usefull things. 👨🏻‍💻
+Programming more or less useful things. 👨🏻‍💻
 
 <!--
 **nineey/nineey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
